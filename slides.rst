@@ -1,7 +1,9 @@
-PyData Berlin Meetup
-====================
+The "why" behind data science
+=============================
 
-:date: 2015-02-26
+:date: 2015-02-26 -- BASE_camp
+:author: Gabe Gaster
+:subtitle: PyData Berlin Meetup
 
 Contact
 -------
