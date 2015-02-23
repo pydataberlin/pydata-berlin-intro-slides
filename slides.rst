@@ -23,6 +23,11 @@ Contact
 :Twitter: ``@pydataberlin``
 :Website: http://pydata.berlin/
 
+Announcements
+-------------
+
+* Looking for...
+
 Questions
 ---------
 
