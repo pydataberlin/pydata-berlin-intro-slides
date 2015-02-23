@@ -12,7 +12,7 @@ Schedule
 
   * By Gabe Gaster
 
-* Lightning talks
+* Lightning Talks
 
 * Drinks and Networking
 
