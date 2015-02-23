@@ -1,9 +1,21 @@
-The "why" behind data science
-=============================
+PyData Berlin Meetup
+====================
 
 :date: 2015-02-26 -- BASE_camp
-:author: Gabe Gaster
-:subtitle: PyData Berlin Meetup
+
+Schedule
+--------
+
+* Introduction
+
+* **The "Why" Behind Data Science**
+
+  * By Gabe Gaster
+
+* Lightning talks
+
+* Drinks and Networking
+
 
 Contact
 -------
