@@ -26,7 +26,14 @@ Contact
 Announcements
 -------------
 
-* Looking for...
+* We are looking for more active volunteers for the PyData-Berlin team
+* Both for meetups and conference
+
+* We are also always looking for:
+
+  * Speakers
+  * Venues
+  * Food and drink sponsors
 
 Questions
 ---------
