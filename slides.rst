@@ -1,7 +1,7 @@
 PyData Berlin Meetup
 ====================
 
-:date: 2015-02-26 -- BASE_camp
+:Date: 2015-02-26 -- BASE_camp
 
 Schedule
 --------
