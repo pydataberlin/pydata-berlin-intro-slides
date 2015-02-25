@@ -35,7 +35,24 @@ Announcements
   * Venues
   * Food and drink sponsors
 
-Questions
----------
+Upcoming Conferences
+--------------------
 
-* How many...
+* PyData Paris 3rd April
+* ...
+
+Survey
+------
+
+* How many of you do 'data science'
+
+  * At least once per week
+  * Every week over the last 3 months
+
+* How many of you are Pythonistas?
+* Python 2 or py 3?
+* How many would attend a track at a Python conference:
+
+  * Beginner
+  * Intermediate
+  * Expert
