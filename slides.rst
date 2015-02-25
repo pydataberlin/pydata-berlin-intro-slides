@@ -20,8 +20,9 @@ Schedule
 Contact
 -------
 
-:Twitter: ``@pydataberlin``
+:Twitter: `@pydataberlin <https://twitter.com/pydataberlin>`_
 :Website: http://pydata.berlin/
+:EMail: `info@pydata.berlin <mailto:info@pydata.berlin>`_
 
 Announcements
 -------------
