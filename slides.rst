@@ -28,7 +28,7 @@ Announcements
 -------------
 
 * We are looking for more active volunteers for the PyData-Berlin team
-* Both for meetups and conference
+* Both for Meetups and conference
 
 * We are also always looking for:
 
@@ -42,8 +42,16 @@ Upcoming Conferences
 * PyData Paris 3rd April
 * ...
 
-Survey
-------
+Survey: Audience
+----------------
+
+* How many of you would describe themselves as
+
+  * Data scientist: BI/Analyst
+  * Data scientist: ML/Predictive analytics
+  * Software developer
+  * DevOp
+  * Non-technical
 
 * How many of you do 'data science'
 
@@ -57,3 +65,17 @@ Survey
   * Beginner
   * Intermediate
   * Expert
+
+Survey: Meetup
+--------------
+* How many of you join the Meetup regularly, independent of topic?
+* How many of you are more selective regarding topics?
+* What topics are you interested in?
+
+  * Data analysis tools
+  * Algorithms/Modeling/ML/Predictive analytics
+    * conceptually
+    * application/tools
+  * Data processing
+  * Visualization
+
