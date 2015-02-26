@@ -1,0 +1,37 @@
+* How many people are in the audience (0)
+* How many of you would describe themselves as
+
+  * Data scientist: BI/Analyst (1)
+  * Data scientist: ML/Predictive analytics (2)
+  * Software developer (3)
+  * DevOp (4)
+  * Non-technical (5)
+
+* How many of you do 'data science'
+
+  * At least once per week (7)
+  * Every week over the last 3 months (8)
+
+* How many of you are Pythonistas? (9)
+* Python 2 or py 3? (9/10)
+* How many would attend a track at a Python conference:
+
+  * Beginner (11)
+  * Intermediate (12)
+  * Expert (13)
+
+Survey: Meetup
+--------------
+* How many of you join the Meetup regularly, independent of topic? (14)
+* How many of you are more selective regarding topics? (15)
+* What topics are you interested in? 
+
+  * Data analysis tools (16)
+  * Algorithms/Modeling/ML/Predictive analytics (17)
+    * conceptually
+    * application/tools
+  * Data processing (18)
+  * Visualization (19)
+* Date of Meetup (20)
+
+50,6,10,9,3,7,14,5,16,15,3,4,14,7,6,19,17,24,10,21,"2015-02-26"
