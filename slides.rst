@@ -68,14 +68,17 @@ Survey: Audience
 
 Survey: Meetup
 --------------
+
 * How many of you join the Meetup regularly, independent of topic?
 * How many of you are more selective regarding topics?
 * What topics are you interested in?
 
   * Data analysis tools
   * Algorithms/Modeling/ML/Predictive analytics
+
     * conceptually
     * application/tools
+
   * Data processing
   * Visualization
 
