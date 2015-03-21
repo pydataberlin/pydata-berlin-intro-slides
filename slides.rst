@@ -30,7 +30,7 @@ Announcements
 * PyData-Berlin 2015 is happening!
 * 29th -- 30th May @ Betahaus
 * CFP soon, start thinking about proposals
-* Volunteers will receive free entry
+* Volunteers will receive free entry!
 
 Announcements
 -------------
