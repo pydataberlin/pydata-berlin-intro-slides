@@ -1,7 +1,7 @@
 PyData Berlin Meetup
 ====================
 
-:Date: 2015-02-26 -- BASE_camp
+:Date: 2015-03-23 -- Microsoft Digial Eatery
 
 Schedule
 --------
