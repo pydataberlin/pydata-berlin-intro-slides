@@ -51,38 +51,12 @@ Survey: Audience
 
 * How many of you would describe themselves as
 
-  * Data scientist: BI/Analyst
-  * Data scientist: ML/Predictive analytics
+  * Data scientist
   * Software developer
-  * DevOp
   * Non-technical
 
-* How many of you do 'data science'
-
-  * At least once per week
-  * Every week over the last 3 months
-
-* How many of you are Pythonistas?
 * Python 2 or py 3?
-* How many would attend a track at a Python conference:
-
-  * Beginner
-  * Intermediate
-  * Expert
-
-Survey: Meetup
---------------
 
 * How many of you join the Meetup regularly, independent of topic?
 * How many of you are more selective regarding topics?
-* What topics are you interested in?
-
-  * Data analysis tools
-  * Algorithms/Modeling/ML/Predictive analytics
-
-    * conceptually
-    * application/tools
-
-  * Data processing
-  * Visualization
 
