@@ -27,20 +27,24 @@ Contact
 Announcements
 -------------
 
-* We are looking for more active volunteers for the PyData-Berlin team
-* Both for Meetups and conference
+* PyData-Berlin 2015 is happening!
+* 29th -- 30th May @ Betahaus
+* CFP soon, start thinking about proposals
+* Volunteers will receive free entry
 
-* We are also always looking for:
+Announcements
+-------------
 
-  * Speakers
-  * Venues
-  * Food and drink sponsors
+* April meetup still needs a venue.
 
 Upcoming Conferences
 --------------------
 
-* PyData Paris 3rd April
-* ...
+* 3rd Apr. -- PyData Paris
+* 17--19 Apr -- PyData Track @ PyCon Italy, Florence
+* 24--26 Apr -- PyData Dallas
+* 20--26 Jul -- PyData Track @ EuroPython, Bilbao
+* 24--26 Jul -- PyData Seattle
 
 Survey: Audience
 ----------------
