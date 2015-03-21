@@ -8,9 +8,9 @@ Schedule
 
 * Introduction
 
-* **The "Why" Behind Data Science**
+* **xlwings: MS Excel with Python**
 
-  * By Gabe Gaster
+  * By Felix Zummstein
 
 * Lightning Talks
 
