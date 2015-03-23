@@ -10,7 +10,7 @@ Schedule
 
 * **xlwings: MS Excel with Python**
 
-  * By Felix Zummstein
+  * By Felix Zumstein
 
 * Lightning Talks
 
@@ -29,20 +29,22 @@ Announcements
 
 * PyData-Berlin 2015 is happening!
 * 29th -- 30th May @ Betahaus
-* CFP soon, start thinking about proposals
+* Conference Website: http://pydataberlin.github.io
+* Opened CFP
 * Volunteers will receive free entry!
 
 Announcements
 -------------
 
-* April meetup still needs a venue.
+* April meetup still needs a venue. (And a speaker)
 
 Upcoming Conferences
 --------------------
 
-* 3rd Apr. -- PyData Paris
+* 3rd Apr -- PyData Paris
 * 17--19 Apr -- PyData Track @ PyCon Italy, Florence
 * 24--26 Apr -- PyData Dallas
+* 29--30 May -- PyData Berlin
 * 20--26 Jul -- PyData Track @ EuroPython, Bilbao
 * 24--26 Jul -- PyData Seattle
 
@@ -59,4 +61,5 @@ Survey: Audience
 
 * How many of you join the Meetup regularly, independent of topic?
 * How many of you are more selective regarding topics?
+* How many of you attended the last Meetup?
 
