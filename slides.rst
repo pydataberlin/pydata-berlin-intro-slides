@@ -1,7 +1,7 @@
 PyData Berlin Meetup
 ====================
 
-:Date: 2015-03-23 -- Microsoft Digial Eatery
+:Date: 2015-03-23 -- Microsoft Digital Eatery
 
 Schedule
 --------
